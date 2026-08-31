@@ -1,0 +1,23 @@
+{
+  "pack": {
+    "min_format": 65,
+    "max_format": 84,
+    "description": [
+      {
+        "text": "Arabic Numeral Levels\n",
+        "color": "white",
+        "bold": true
+      },
+      {
+        "text": "mc1.16+ | made by ",
+        "color": "gray",
+        "bold": false
+      },
+      {
+        "text": "M0RIK0U",
+        "color": "gray",
+        "bold": true
+      }
+    ]
+  }
+}
