@@ -1,5 +1,6 @@
 {
   "pack": {
+    "pack_format": 65,
     "min_format": 65,
     "max_format": 88,
     "description": [
@@ -9,7 +10,7 @@
         "bold": true
       },
       {
-        "text": "mc1.16+ | made by ",
+        "text": "mc1.13+ | made by ",
         "color": "gray",
         "bold": false
       },
