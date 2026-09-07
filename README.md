@@ -1,6 +1,10 @@
 # Minecraft Pack
 
-Minecraft用のパックです。
+Minecraft Java Edition用のパックです。
+
+## 対応バージョン
+
+Minecraft Java Edition **1.13+**
 
 ## ダウンロード
 
@@ -10,6 +14,8 @@ Minecraft用のパックです。
 
 **CC BY-SA 4.0**
 
+作者：**M0RIK0U**
+
 この作品は、クレジット表記のもとで改変・再配布できます。改変した作品は同じライセンスで公開してください。
 
-[ライセンスの詳細](https://creativecommons.org/licenses/by-sa/4.0/)
+[CC BY-SA 4.0 について](https://creativecommons.org/licenses/by-sa/4.0/)
